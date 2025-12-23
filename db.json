@@ -1,0 +1,321 @@
+{
+  "book": [
+    {
+      "id": "2c51",
+      "author": "Rowling",
+      "title": "harry potter ",
+      "pages": 350,
+      "year": 2000,
+      "description": "survived boy",
+      "genre": null,
+      "image": "https://www.cinematheque.qc.ca/cdn-cgi/image/format=auto/workspace/uploads/projections/the-lord-of-the-rings-the-two-towers-2-fr-1748288473.jpg",
+      "price": 90
+    }
+  ],
+  "users": [
+    {
+      "id": "2573",
+      "randomName": "Katya",
+      "balance": 155,
+      "age": 35
+    },
+    {
+      "id": "6672",
+      "randomName": "Alex",
+      "balance": 106,
+      "age": 60
+    },
+    {
+      "id": "4726",
+      "randomName": "Andrii",
+      "balance": 276,
+      "age": 39
+    },
+    {
+      "id": "d3dd",
+      "randomName": "Alex",
+      "balance": 546,
+      "age": 54
+    },
+    {
+      "id": "1b85",
+      "randomName": "Alex",
+      "balance": 766,
+      "age": 47
+    },
+    {
+      "id": "f411",
+      "randomName": "Ania",
+      "balance": 776,
+      "age": 17
+    },
+    {
+      "id": "1d31",
+      "randomName": "Ania",
+      "balance": 553,
+      "age": 47
+    },
+    {
+      "id": "85de",
+      "randomName": "Volodymyr",
+      "balance": 383,
+      "age": 34
+    },
+    {
+      "id": "f705",
+      "randomName": "Katya",
+      "balance": 941,
+      "age": 26
+    },
+    {
+      "id": "70c2",
+      "randomName": "sasha",
+      "balance": 200,
+      "age": 50
+    },
+    {
+      "id": "6949",
+      "balance": 981,
+      "age": 34
+    },
+    {
+      "id": "4acc",
+      "randomName": "Andrii",
+      "balance": 118,
+      "age": 51
+    },
+    {
+      "id": "fe6e",
+      "randomName": "Oleh",
+      "balance": 872,
+      "age": 22
+    },
+    {
+      "id": "def3",
+      "randomName": "Oleh",
+      "balance": 58,
+      "age": 52
+    },
+    {
+      "id": "ff34",
+      "randomName": "Katya",
+      "balance": 497,
+      "age": 39
+    },
+    {
+      "id": "b150",
+      "randomName": "Ania",
+      "balance": 979,
+      "age": 24
+    },
+    {
+      "id": "424a",
+      "balance": 946,
+      "age": 47
+    },
+    {
+      "id": "6425",
+      "randomName": "Oleh",
+      "balance": 583,
+      "age": 34
+    },
+    {
+      "id": "74e4",
+      "randomName": "sasha",
+      "balance": 214,
+      "age": 15
+    },
+    {
+      "id": "8256",
+      "randomName": "Iryna",
+      "balance": 97,
+      "age": 41
+    },
+    {
+      "id": "1b7a",
+      "randomName": "Iryna",
+      "balance": 681,
+      "age": 36
+    },
+    {
+      "id": "c8cf",
+      "randomName": "Andrii",
+      "balance": 454,
+      "age": 49
+    },
+    {
+      "id": "8323",
+      "randomName": "Iryna",
+      "balance": 41,
+      "age": 27
+    },
+    {
+      "id": "211f",
+      "randomName": "Iryna",
+      "balance": 619,
+      "age": 31
+    },
+    {
+      "id": "630f",
+      "randomName": "Oleh",
+      "balance": 454,
+      "age": 31
+    },
+    {
+      "id": "e7a2",
+      "randomName": "Volodymyr",
+      "balance": 864,
+      "age": 45
+    },
+    {
+      "id": "3950",
+      "randomName": "Katya",
+      "balance": 322,
+      "age": 43
+    },
+    {
+      "id": "00e6",
+      "randomName": "Alex",
+      "balance": 828,
+      "age": 44
+    },
+    {
+      "id": "7d61",
+      "randomName": "Iryna",
+      "balance": 863,
+      "age": 55
+    },
+    {
+      "id": "c567",
+      "randomName": "sasha",
+      "balance": 124,
+      "age": 49
+    },
+    {
+      "id": "2fe0",
+      "randomName": "Oleh",
+      "balance": 828,
+      "age": 35
+    },
+    {
+      "id": "1aac",
+      "randomName": "sasha",
+      "balance": 170,
+      "age": 51
+    },
+    {
+      "id": "c039",
+      "randomName": "Katya",
+      "balance": 995,
+      "age": 23
+    },
+    {
+      "id": "2393",
+      "randomName": "Katya",
+      "balance": 913,
+      "age": 54
+    },
+    {
+      "id": "11dd",
+      "randomName": "Alex",
+      "balance": 296,
+      "age": 40
+    },
+    {
+      "id": "673c",
+      "randomName": "Alex",
+      "balance": 64,
+      "age": 51
+    },
+    {
+      "id": "6d36",
+      "randomName": "Alex",
+      "balance": 132,
+      "age": 52
+    },
+    {
+      "id": "03f5",
+      "randomName": "Volodymyr",
+      "balance": 200,
+      "age": 12
+    },
+    {
+      "id": "3b87",
+      "randomName": "Iryna",
+      "balance": 68,
+      "age": 54
+    },
+    {
+      "id": "24e3",
+      "randomName": "Alex",
+      "balance": 454,
+      "age": 41
+    },
+    {
+      "id": "2bbd",
+      "randomName": "Andrii",
+      "balance": 212,
+      "age": 30
+    },
+    {
+      "id": "3e16",
+      "randomName": "Oleh",
+      "balance": 868,
+      "age": 40
+    },
+    {
+      "id": "8c69",
+      "randomName": "Volodymyr",
+      "balance": 776,
+      "age": 28
+    },
+    {
+      "id": "4de9",
+      "randomName": "sasha",
+      "balance": 778,
+      "age": 56
+    },
+    {
+      "id": "1231",
+      "randomName": "Volodymyr",
+      "balance": 950,
+      "age": 25
+    },
+    {
+      "id": "5645",
+      "randomName": "Oleh",
+      "balance": 908,
+      "age": 54
+    },
+    {
+      "id": "c9f2",
+      "randomName": "sasha",
+      "balance": 403,
+      "age": 26
+    },
+    {
+      "id": "1429",
+      "randomName": "sasha",
+      "balance": 611,
+      "age": 58
+    },
+    {
+      "id": "fc02",
+      "randomName": "Iryna",
+      "balance": 230,
+      "age": 43
+    },
+    {
+      "id": "eea3",
+      "randomName": "Andrii",
+      "balance": 279,
+      "age": 14
+    },
+    {
+      "id": "964f",
+      "randomName": "Katya",
+      "balance": 465,
+      "age": 58
+    }
+  ]
+}

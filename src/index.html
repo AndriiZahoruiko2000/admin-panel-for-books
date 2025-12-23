@@ -14,23 +14,13 @@
     <title>Document</title>
   </head>
   <body>
-    <section class="block">
-      <div class="container">
-        <form class="js-search-photo form">
-          <div class="form-group m-2">
-            <input type="text" class="form-control" name="query" />
-          </div>
-          <button type="submit" class="btn btn-primary">Search</button>
-        </form>
-
-        <span class="loader hidden"></span>
-
-        <ul class="gallery"></ul>
-      </div>
-    </section>
-
-    <script src="./main.js" type="module"></script>
-    <script src="./js/pixabay-api.js" type="module"></script>
-    <script src="./js/render-functions.js" type="module"></script>
+    <main>
+      <load src="./partials/users.html" />
+      <load src="./partials/update-form.html" />
+      <load src="./partials/reset-form.html" />
+      <load src="./partials/create-form.html" />
+      <load src="./partials/book-list.html" />
+    </main>
+    <script src="./js/main.js " type="module"></script>
   </body>
 </html>
